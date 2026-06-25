@@ -5,7 +5,7 @@ A robust, end-to-end Machine Learning pipeline utilizing a **Support Vector Mach
 ## 📋 Project Overview
 Early detection of chronic conditions like diabetes is crucial for healthcare intervention. This project implements a binary classification model that achieves high accuracy by properly handling data preparation, feature engineering (standardization), and model evaluation.
 
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/72/SVM_margin.png" width="400" alt="Support Vector Machine Hyperplane">
 
 ## 📊 Dataset Description
 The model is trained on the classic **PIMA Diabetes Dataset** from the National Institute of Diabetes and Digestive and Kidney Diseases. The dataset consists of 768 patient records with 8 medical predictor features and 1 target variable (`Outcome`):
@@ -28,6 +28,6 @@ The model is trained on the classic **PIMA Diabetes Dataset** from the National 
 * **Evaluation:** Stratified 80/20 train-test split evaluated using standard Classification Accuracy.
 
 ## 🚀 How to Run the Project
-1. Clone the repository:
+1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/diabetes-prediction-ml.git](https://github.com/YOUR_USERNAME/diabetes-prediction-ml.git)
+   git clone [https://github.com/EshitaG05/Diabetes-Risk-Prediction-System.git](https://github.com/EshitaG05/Diabetes-Risk-Prediction-System.git)
