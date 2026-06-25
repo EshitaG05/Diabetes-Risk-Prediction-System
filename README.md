@@ -1,4 +1,4 @@
-# Diabetes Prediction System using Machine Learning
+# Diabetes Risk Prediction System using Machine Learning
 
 A robust, end-to-end Machine Learning pipeline utilizing a **Support Vector Machine (SVM)** classifier to predict whether a patient has diabetes based on diagnostic measurements. 
 
